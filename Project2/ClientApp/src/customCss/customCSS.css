@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow&display=swap');
+
+
+body {
+    font-family: 'Archivo Narrow', sans-serif !important;
+}
+
+p {
+    font-size: 18px;
+}
+
+ul li, span, a {
+    font-size:16px !important;
+}
+
+.container {
+  background-color: white;
+}
+
+.navbar-light {
+  background-color: white !important;
+}
+
+.mainImage {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.header {
+  text-align: left;
+  padding-left: 80px;
+}
+
+.rooms .card,
+.newestDeals .card,
+.agents .card {
+  margin: auto;
+}
+
+.header .main-header {
+    font-size: 50pt;
+    font-weight: 900;
+    /*color: #10659B;*/
+    color: #2591CB;
+    /*font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;*/
+}
+
+.header .sub-header {
+  padding: 50px 40px 50px 0;
+}
+
+.section1-header .section1-main-header,
+.section2-main-header,
+.section3-main-header {
+    font-size: 45pt;
+    font-weight: 900;
+    color: #2591CB;
+    /*font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;*/
+}
+
+.padding {
+  padding: 40px;
+}
+
+.padding2 {
+  padding: 20px;
+}
+
+.center p {
+  text-align: center;
+}
+
+.section1-header .options {
+  padding: 10px 100px;
+}
+
+.card {
+  padding: 0;
+}
+
+.h5 {
+  font-size: 18px !important;
+  font-weight: 900 !important;
+  color: rgb(21, 21, 82) !important;
+}
+
+.card-body,
+.list-group {
+  text-align: left;
+}
+
+.card-img-top {
+  height: 26rem;
+}
+
+.sectionSteps .card {
+  border: none;
+}
+
+.sectionSteps .card-body {
+  text-align: center;
+}
+
+.footer ul {
+  list-style-type: none;
+  text-align: left !important;
+}
+
+.footer p {
+  text-align: left;
+  padding-left: 20px;
+  font-size: 18px;
+  font-weight: 900;
+}
+
+.footer .icons {
+  display: inline;
+  padding: 10px;
+}
+
+.footer a {
+  all: unset;
+}
+
+.footer {
+  background-color: rgb(182, 176, 176);
+  padding: 30px;
+}
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.agents .card-img-top {
+  height: 100%;
+}
